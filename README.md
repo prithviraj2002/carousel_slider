@@ -1,4 +1,4 @@
-# passprt_test
+# carousel_slider
 
 A single screen, with an autoplay image carousel to display multiple images. With star rating, trek details and a horizontal scrollable row to explore more popular treks.
 
